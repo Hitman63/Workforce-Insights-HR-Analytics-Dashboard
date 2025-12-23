@@ -1,0 +1,3 @@
+**Workforce Insights & HR Analytics Dashboard**
+
+This project showcases a Workforce Insights & HR Analytics Dashboard built using Power BI to effectively visualize and analyze key human resources data. It highlights critical KPIs such as employee demographics, attrition and retention rates, hiring and attendance trends, performance distribution, and department-wise insights. The dashboard allows HR teams to track workforce patterns, monitor employee retention, and assess overall performance with ease. Through interactive charts, slicers, and filters, it delivers a dynamic and comprehensive view of HR metrics, enabling management to make data-driven and strategic workforce decisions.
